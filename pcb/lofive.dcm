@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP lofive
+D LoFive RISC-V
+K lofive riscv microcontroller system on module som
+$ENDCMP
+#
+#End Doc Library

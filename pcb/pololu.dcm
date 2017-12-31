@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2135
+D Pololu DRV8835 Breakout
+K Pololu 2135 DRV8835 breakout
+$ENDCMP
+#
+$CMP 2836
+D Pololu S9V11F5 5V step-up/step-down
+K Pololu 2836 S9V11F5 breakout regulator
+$ENDCMP
+#
+#End Doc Library
